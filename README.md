@@ -257,6 +257,7 @@ Nếu bạn cần hỗ trợ, vui lòng liên hệ qua các kênh sau:
 
 * **Telegram:** [Contact me](https://t.me/hatronghoann)
 * **Zalo:** [Tại đây](https://www.google.com/search?q=https://zalo.me/0963671028)
+* **Email:** hatronghoann@gmail.com
 
 ## 7. Bản quyền thuộc về
 ```
