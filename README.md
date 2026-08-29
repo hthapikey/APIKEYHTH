@@ -1,7 +1,7 @@
 # Hướng dẫn thêm HTH APIKEY vào project
 ### Professional License Management & Authentication Framework
 
-[![Version](https://img.shields.io/badge/version-6.0.3-blue.svg)](https://github.com/pp7803/APIKey)
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/hthapikey/APIKEYHTHV1)
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)](https://www.apple.com/ios)
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
 [![Theos](https://img.shields.io/badge/built%20with-Theos-orange.svg)](https://theos.dev)
